@@ -1,9 +1,6 @@
 0, this, 4
 1, is, 2
-2, a string, 8
+2, string, 6
 3, and, 3
-4, that, 4
-5, is, 2
-6, another, 7
-7, string 2, 8
-8, , 0
+4, another one, 11
+5, , 0

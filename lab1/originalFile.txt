@@ -1,8 +1,5 @@
 this
 is
-a string
+string
 and
-that
-is
-another
-string 2
+another one
