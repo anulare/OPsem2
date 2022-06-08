@@ -1,0 +1,8 @@
+this
+is
+a string
+and
+that
+is
+another
+string 2
